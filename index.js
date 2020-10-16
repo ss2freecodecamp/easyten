@@ -1,2 +1,1 @@
-alert("PLEASE NOTE: We have a VERY STRICT, NO REFUNDS policy.  Please make sure you are willing to use this system before completing your purchase.  
-No refund will be approved once you complete this transaction");
+alert("By submitting your order, you are agreeing to the following terms and conditions:  All orders are non-refundable. You agree there are NO refunds for any reason and non-use does not constitute a reason for a refund of any kind. Because of the real-time nature of the information we send out, we cannot receive this information back. So if you are not sure that you want to purchase the Ads System for any reason, please do not purchase it until you are absolutely sure");
